@@ -1,6 +1,6 @@
 # Super Pan Store 
 ## Desafio 1 da Pan Academy 🚀
-- Um curso para formar desenvolverdores Java beck-end e AWS
+- Um curso para formar desenvolverdores Java back-end e AWS
 
 ## Objetivo
  - Criar uma loja com estoque em que o usuário seleciona produtos do estoque e adiciona-os ao seu 
