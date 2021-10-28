@@ -17,6 +17,10 @@
 ### Objetivo
  - Criar uma supermercado virtual no qual o cliente poderia fazer suas compras, selecionando produtos, escolhendo a forma de pagamento e gerando uma nota fiscal ao final. 
 
+### Run do Programa
+
+[![Watch the video](https://www.iconsdb.com/icons/preview/green/video-play-xxl.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6858591884948840448?compact=1)
+
 ### Empresas
 
 [![image](https://user-images.githubusercontent.com/92064386/138007156-3ae6e393-a770-4bf7-85cb-9f9d390fb118.png)](https://user-images.githubusercontent.com/92064386/138007156-3ae6e393-a770-4bf7-85cb-9f9d390fb118.png) [![image](https://user-images.githubusercontent.com/92064386/138007193-47cac947-928e-4909-a299-0ae99b35eed9.png)](https://user-images.githubusercontent.com/92064386/138007193-47cac947-928e-4909-a299-0ae99b35eed9.png)
