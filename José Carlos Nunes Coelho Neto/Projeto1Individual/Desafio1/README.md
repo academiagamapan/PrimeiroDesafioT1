@@ -2,9 +2,10 @@
 
 Projeto desenvolvido para o Curso do Pan Academy - Java e AWS
 
-Desafio do programador proposto para a turma 1. Testando e avaliando os conhecimentos práticos abordados em sala de aula
+Desafio do programador proposto para a turma 1. Testando e avaliando os conhecimentos práticos abordados em sala de aula conforme os requisitos do projeto descrito 
+[desafio do programador](https://github.com/zecarlos558/Aula-PanAcademy/blob/main/Primeiro%20Desafio%20do%20Programador/Projeto1Individual/Desafio1/Documento_1Desafio_do_Programador.md)
 
-[ProjetoOficialGrupo2](https://github.com/zecarlos558/Aula-PanAcademy/tree/main/Primeiro%20Desafio%20do%20Programador/Projeto1Grupo/PanStore)
+Este é um sistema para prática e exercícios de habilidades. O projeto oficial foi feito em grupo [ProjetoOficialGrupo2](https://github.com/zecarlos558/Aula-PanAcademy/tree/main/Primeiro%20Desafio%20do%20Programador/Projeto1Grupo/PanStore)
 
 #### Objetivos
 
@@ -26,13 +27,13 @@ O Projeto inicial era exigido para ser executado em terminal, mas por capricho d
 
 ###### Screenchot Tela Inicial:
 
-![](C:\Users\JC Trabalho\Documents\Curso Pan Academy\Projetos\Projeto1Individual\Desafio1\Captura de Tela - Sistema Loja Virtual.png)
+![](screenshot_Sistema_Loja_Virtual.png)
 
 
 
 #### PATROCINADORES
 
-![](C:\Users\JC Trabalho\Documents\Curso Pan Academy\Projetos\Projeto1Individual\Desafio1\logo_gamaAcademy.png)
+![](logo_gamaAcademy.png)
 
-![](C:\Users\JC Trabalho\Documents\Curso Pan Academy\Projetos\Projeto1Individual\Desafio1\logo_bancoPan.png)
+![](logo_bancoPan.png)
 
