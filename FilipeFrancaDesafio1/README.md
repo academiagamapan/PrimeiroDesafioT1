@@ -1,7 +1,7 @@
 # Supermercado PanDeLó 🍞🍖🧅🍓🥦🍫  
 
 ### Desafio do Programador 1
-- Primeiro projeto realizado no Bootcamp do Banco PAN em parceria com a Gama Academy para formação de desenvolvedores Java back-end.
+- Primeiro projeto realizado no Bootcamp do Banco PAN em parceria com a Gama Academy para formação de desenvolvedores back-end Java.
 
 ### Desenvolvedores do Grupo 4
 
