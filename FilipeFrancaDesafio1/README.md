@@ -15,7 +15,7 @@
 - O projeto foi desenvolvido em total sincronia com a equipe. Todos apresentaram idéias presentes na versão final. Optou-se por fazer o desenvolvimento do código apenas durante as aulas, em conjunto, onde um desenvolvedor compartilhava a tela e os demais auxiliavam na elaboração do código.
 
 ### Objetivo
- - Criar uma supermercado virtual no qual o cliente poderia fazer suas compras, selecionando produtos, escolhendo a de pagamento e gerando uma nota fiscal ao final. 
+ - Criar uma supermercado virtual no qual o cliente poderia fazer suas compras, selecionando produtos, escolhendo a forma de pagamento e gerando uma nota fiscal ao final. 
 
 
 
